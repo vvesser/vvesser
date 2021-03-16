@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vvesser
 - 👀 I’m interested in our global family, (and my little personal one) computer programming, advanced materials, sustainability and my wonderful partner Pauline
-who is more than family and a part of me.
+who is more than family and is actually a part of me.
 - 🌱 I’m currently learning Git! Also, Python, html, css, Java, JavaScript, SQL and everything I can about computers and computer languages.
 I am also interested in Space exploration, human equality and a sustainable future here on Earth and everywhere we go. Truthfully I have more interests 
 than I have time for but most of my major interests are above.
